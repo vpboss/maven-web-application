@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.224.151.37:9964/jvtech/repository/facebookk-snapshot/</url>
+	      <url>http://18.191.232.144:9964/jvtech/repository/facebookk-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
